@@ -1,0 +1,105 @@
+canonical_identifier: bkk:krp/KR6s0089/v1
+canonical_location: https://kanripo.org/bkk/KR6s0089/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續大唐內典錄
+  identifiers:
+    alt_id:
+    - T55n2150
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2150.xml
+    old_id: T55n2150
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:c47d20b605de4a5079a446e27db5b120dd8c1f8e329361c00eaf6798ff6e26e1'}
+  - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:e6ea93ba0a53205148542a08b27121f74c2ddd53f9066599226610756a211ab3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:3ed5faea984dcf7f1ff4b6f24256af5e3cb04e9dab2b6fe9b8b486b4b52f180d'}
+  - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:aa986194186df9c5ecf4f7131f445a8c8041b6ef942b4d323aa05d7fb187b4be'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0089_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 續大唐內典錄讚序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0089_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5096
+  label: 續大唐內典錄一卷并序麟德元年於西明寺起首移總持寺釋氏撰畢
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0089_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 續大唐內典錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0089_T_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0089_T_001-mulu-3
+    span:
+    - body
+    - 103
+    - 103
+  label: 全書總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0089_T_001-mulu-4
+    span:
+    - body
+    - 440
+    - 440
+  label: 續代眾經傳譯所從錄
+  type: mulu
+  level: 1
+hash: sha256:743f68134a4abc8b772f719226aeb391fa28293bc28666ad0ee4571513e94d2d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
