@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:c47d20b605de4a5079a446e27db5b120dd8c1f8e329361c00eaf6798ff6e26e1'}
-  - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:e6ea93ba0a53205148542a08b27121f74c2ddd53f9066599226610756a211ab3'}
+  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:16c2623881c79adb718a604f1f722a91721631f0253107ceee6c542788cbd315'}
+  - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:24d42cecb488e186921c0fde10488615cfbda73ff0f73b1afd79a5f0bbb482cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:3ed5faea984dcf7f1ff4b6f24256af5e3cb04e9dab2b6fe9b8b486b4b52f180d'}
-  - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:aa986194186df9c5ecf4f7131f445a8c8041b6ef942b4d323aa05d7fb187b4be'}
+  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:b90c539f723792dc64fc063ab1a5e5bc14f229dc43d5ebf78d206b74a2c91fea'}
+  - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:22a598a1e1e4a844f7390db6df0972bb0338847b2525a99bad8cf41c8ad80762'}
 table_of_contents:
 - ref:
     seq: 0
@@ -99,7 +99,4 @@ table_of_contents:
   label: 續代眾經傳譯所從錄
   type: mulu
   level: 1
-hash: sha256:743f68134a4abc8b772f719226aeb391fa28293bc28666ad0ee4571513e94d2d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7412df16452799e1617fd0f0192e4a0e75e98dedffb801b108dc28f6d43eb835
