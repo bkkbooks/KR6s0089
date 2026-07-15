@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0089/v1
 canonical_location: https://kanripo.org/bkk/KR6s0089/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 續大唐內典錄
   identifiers:
@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:16c2623881c79adb718a604f1f722a91721631f0253107ceee6c542788cbd315'}
-  - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:24d42cecb488e186921c0fde10488615cfbda73ff0f73b1afd79a5f0bbb482cf'}
+  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:29ab71333f9dc169988bc6195f787b8044c26dcb57dd766c004b4adac96c3050'}
+  - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:b67a66b092fd1ee3148bb75a976d4064176e1c8612bd77acdf9c35f812492e30'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:b90c539f723792dc64fc063ab1a5e5bc14f229dc43d5ebf78d206b74a2c91fea'}
-  - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:22a598a1e1e4a844f7390db6df0972bb0338847b2525a99bad8cf41c8ad80762'}
+  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:45d0e0be989b434440d24a78f26aec3c1af9712ca5edb939042f0171890987c0'}
+  - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:2d10a4260b4dd0be62c7e8c9df6b88bf8a0c84ae4e07c7cd8f4d63211c88b529'}
 table_of_contents:
 - ref:
     seq: 0
@@ -99,4 +99,7 @@ table_of_contents:
   label: 續代眾經傳譯所從錄
   type: mulu
   level: 1
-hash: sha256:7412df16452799e1617fd0f0192e4a0e75e98dedffb801b108dc28f6d43eb835
+hash: sha256:d0b321d13d24c2ee6307b1b169bcdaa62dc1615577e5b20d396149e1f22e7311
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
