@@ -33,17 +33,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:29ab71333f9dc169988bc6195f787b8044c26dcb57dd766c004b4adac96c3050'}
+  - {seq: 0, filename: KR6s0089_000.yaml, hash: 'sha256:a15fae707415f7ac64fa5bb97bb3e07320a20d289c7a60630c3df695d1abd97f'}
   - {seq: 1, filename: KR6s0089_001.yaml, hash: 'sha256:b67a66b092fd1ee3148bb75a976d4064176e1c8612bd77acdf9c35f812492e30'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:45d0e0be989b434440d24a78f26aec3c1af9712ca5edb939042f0171890987c0'}
+  - {seq: 0, role: markers, filename: assets/KR6s0089_000.markers.yaml, hash: 'sha256:21e185844cb30f3303a8beb01c5f1fc9b3a69128f9b34fdc6d1bdbabbc283ad2'}
   - {seq: 1, role: markers, filename: assets/KR6s0089_001.markers.yaml, hash: 'sha256:2d10a4260b4dd0be62c7e8c9df6b88bf8a0c84ae4e07c7cd8f4d63211c88b529'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6s0089_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 續大唐內典錄讚序
@@ -99,7 +99,7 @@ table_of_contents:
   label: 續代眾經傳譯所從錄
   type: mulu
   level: 1
-hash: sha256:d0b321d13d24c2ee6307b1b169bcdaa62dc1615577e5b20d396149e1f22e7311
+hash: sha256:417f796dc6010146f11287050dcfb51ff3876e3692e2bad32c24330f94b1ccad
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
